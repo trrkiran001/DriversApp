@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DemoApp</string>
+    <string name="app_name">DriversApp</string>
+    <string name="fetch_drivers_data">Fetch Drivers</string>
+    <string name="sort_with_lastname">Sort</string>
 </resources>
